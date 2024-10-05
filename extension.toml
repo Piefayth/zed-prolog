@@ -1,0 +1,7 @@
+id = "prolog"
+name = "prolog"
+version = "0.0.1"
+schema_version = 1
+authors = ["Piefayth <piefayth@gmail.com>"]
+description = "tree-sitter-prolog integration for zed"
+repository = "https://github.com/piefayth/prolog"

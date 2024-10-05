@@ -1,0 +1,4 @@
+name = "Prolog"
+grammar = "prolog"
+path_suffixes = ["pl", "pro", "P"]
+line_comments = ["% "]
