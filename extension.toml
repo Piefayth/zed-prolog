@@ -9,3 +9,7 @@ repository = "https://github.com/piefayth/prolog"
 [grammars.prolog]
 repository = "https://github.com/Piefayth/tree-sitter-prolog"
 commit = "9db4b3f23e8ba35d41075dd163a65b30d969dc13"
+
+[language_servers.prolog-language-server]
+name = "Prolog Language Server"
+language = "Prolog"
