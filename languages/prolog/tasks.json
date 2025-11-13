@@ -1,0 +1,14 @@
+[
+	{
+		"label": "Prolog: Run file",
+		"command": "swipl",
+		"args": ["\"$ZED_FILE\""],
+		"hide": "on_success",
+		"tags": ["prolog-run-file"]
+	},
+	{
+		"label": "Prolog: Run SWI-Prolog",
+		"command": "swipl",
+		"hide": "on_success"
+	}
+]
